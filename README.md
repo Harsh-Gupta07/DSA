@@ -11,6 +11,7 @@ My daily data structures and algorithms practice in Java. This repository contai
 | --- | --- | --- | --- | --- | --- | --- |
 | 01 | [Reverse Array](https://www.geeksforgeeks.org/problems/reverse-an-array/1) | Easy | Two pointers | O(n) | O(1) | [Java](day-01/01-reverse-array/Solution.java) · [Notes](day-01/01-reverse-array/README.md) |
 | 01 | [Second Largest](https://www.geeksforgeeks.org/problems/second-largest3735/1) | Easy | Single-pass tracking | O(n) | O(1) | [Java](day-01/02-second-largest/Solution.java) · [Notes](day-01/02-second-largest/README.md) |
+| 02 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Easy | Two-pass in-place updates | O(n) | O(1) | [Java](day-02/01-move-zeroes/Solution.java) · [Notes](day-02/01-move-zeroes/README.md) |
 
 
 ## Organization
